@@ -93,6 +93,20 @@ python predict.py
 - fresh_orange: 65 (14.3%)
 - rotten_orange: 58 (12.8%)
 
+### 📊 Visualización de Resultados
+
+**Curvas de Aprendizaje**
+
+![Curvas de Aprendizaje](resultados/learning_curves.png)
+
+**Matriz de Confusión**
+
+![Matriz de Confusión](resultados/confusion_matrix.png)
+
+**Ejemplos de Predicciones**
+
+![Ejemplos de predicciones](resultados/batch_samples.png)
+
 ## 📁 Estructura del Proyecto
 
 ```
@@ -140,7 +154,7 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE par
 
 ## 👤 Autor
 
-Richard Garcia - Riche45
+Richard Garcia - @Riche45 (github)
 
 Desarrollador en visión por computadora y aprendizaje profundo.
 
@@ -162,4 +176,4 @@ Los archivos de modelo PyTorch (`.pth`) han sido excluidos del repositorio debid
 python train.py
 ```
 
-O descargándolos desde el siguiente enlace: (https://drive.google.com/drive/folders/your-folder-id)
+
