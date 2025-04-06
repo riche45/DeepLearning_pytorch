@@ -1,0 +1,85 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Entornos virtuales
+venv/
+ENV/
+env/
+.env
+
+# Directorios de PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+
+# Directorios de VS Code
+.vscode/
+*.code-workspace
+.history/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Directorios de PyTorch
+*.pth
+*.ckpt
+*.pt
+*.h5
+
+# Excepciones - queremos conservar el modelo entrenado
+!resultados/*.pth
+!resultados/*.pt
+
+# Directorios de datos
+# En un repositorio real, es posible que quieras excluir los datos grandes
+# data/
+
+# Archivos del sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Archivos de distribución
+dist/
+build/
+
+# Caché de pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*~ 
