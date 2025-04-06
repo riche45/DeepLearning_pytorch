@@ -162,4 +162,4 @@ Los archivos de modelo PyTorch (`.pth`) han sido excluidos del repositorio debid
 python train.py
 ```
 
-O descargándolos desde el siguiente enlace: [Modelos entrenados](https://drive.google.com/drive/folders/your-folder-id)
+O descargándolos desde el siguiente enlace: (https://drive.google.com/drive/folders/your-folder-id)
