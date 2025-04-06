@@ -23,6 +23,7 @@ Este proyecto fue desarrollado como parte de mi formación en aprendizaje profun
 ## 🚀 Características
 
 - Clasificación de imágenes en 6 categorías diferentes
+- Entrenado con más de 1500 imágenes de muestras de frutas
 - Arquitectura ResNet34 pre-entrenada
 - Alta precisión (96.23% en validación)
 - Compatible con Windows (optimizado para evitar problemas de multiprocessing)
@@ -81,6 +82,7 @@ python predict.py
 
 ## 📊 Resultados
 
+- **Total de imágenes utilizadas**: Más de 1500 imágenes de frutas
 - **Precisión de entrenamiento**: 94.44%
 - **Precisión de validación**: 96.23% 
 - **Tiempo de entrenamiento**: 4.69 minutos (5 épocas)
