@@ -149,3 +149,17 @@ Desarrollador en visión por computadora y aprendizaje profundo.
 - PyTorch
 - torchvision
 - Python
+
+## 📝 Notas de Actualización
+
+- La estructura de datos actual es más simple y eficiente, manteniendo todos los archivos necesarios sin redundancias.
+
+## ⚠️ Archivos grandes
+
+Los archivos de modelo PyTorch (`.pth`) han sido excluidos del repositorio debido a las limitaciones de tamaño de GitHub. Puedes generarlos localmente ejecutando:
+
+```bash
+python train.py
+```
+
+O descargándolos desde el siguiente enlace: [Modelos entrenados](https://drive.google.com/drive/folders/your-folder-id)

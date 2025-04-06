@@ -82,4 +82,9 @@ htmlcov/
 *.tmp
 *.bak
 *.swp
-*~ 
+*~
+
+# Archivos de modelo grandes - excluidos por límites de GitHub
+resultados/best_model_resnet34.pth
+resultados/final_model_resnet34.pth
+resultados/mejor_modelo.pth 
